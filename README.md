@@ -37,7 +37,7 @@
 ![alt text](<Screenshot 2026-03-17 190449.png>)
 
 ## ULTIMAKER CURA:
-![alt text](<Screenshot 2026-03-17 190775.png>)
+![alt text](<Screenshot 2026-03-17 190755.png>)
 
 ### Name: Karthic V
 ### Register Number: 212225240068
